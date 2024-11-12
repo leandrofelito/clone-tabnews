@@ -4,6 +4,7 @@
   "description": "Implementação do https://www.tabnews.com.br para o https://curso.dev",
   "main": "index.js",
   "scripts": {
+     "build": "next build",
     "dev": "next dev"
   },
   "author": "",

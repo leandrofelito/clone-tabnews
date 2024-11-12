@@ -1,4 +1,4 @@
 function Home() {
-    return <h1>Frase consertada</h1>
+    return <h1>Frase teste/h1>
 }
 export default Home;
